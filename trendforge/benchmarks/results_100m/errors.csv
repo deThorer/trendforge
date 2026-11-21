@@ -1,0 +1,1033 @@
+method,rate,seed,query,group,agg,rel_error,in_ci,missing,sample_rows
+uniform,0.001,0,Q1,Africa,avg_price,0.03083602600531327,True,False,3409
+uniform,0.001,0,Q1,East Asia,avg_price,0.0018541769527633267,True,False,15053
+uniform,0.001,0,Q1,Europe,avg_price,0.002257321168873026,True,False,25065
+uniform,0.001,0,Q1,Latin America,avg_price,0.005460584105353055,True,False,7991
+uniform,0.001,0,Q1,Middle East,avg_price,0.010598166434857613,True,False,5962
+uniform,0.001,0,Q1,North America,avg_price,0.011108438801941333,True,False,30257
+uniform,0.001,0,Q1,Oceania,avg_price,0.07643817407258346,True,False,546
+uniform,0.001,0,Q1,South Asia,avg_price,0.0042346701714678255,True,False,12019
+uniform,0.001,0,Q2,Africa,sum_revenue,0.043662643225308634,True,False,1045
+uniform,0.001,0,Q2,East Asia,sum_revenue,0.04577448170982917,True,False,4432
+uniform,0.001,0,Q2,Europe,sum_revenue,0.01759131305096853,True,False,7465
+uniform,0.001,0,Q2,Latin America,sum_revenue,0.04489290454680454,True,False,2380
+uniform,0.001,0,Q2,Middle East,sum_revenue,3.6273211380574735e-06,True,False,1776
+uniform,0.001,0,Q2,North America,sum_revenue,0.022287210326614803,True,False,8936
+uniform,0.001,0,Q2,Oceania,sum_revenue,0.23608740252657776,True,False,156
+uniform,0.001,0,Q2,South Asia,sum_revenue,0.001887244363478883,True,False,3611
+uniform,0.001,0,Q2,Africa,count,0.007882252669816688,True,False,1045
+uniform,0.001,0,Q2,East Asia,count,0.017451837733483185,True,False,4432
+uniform,0.001,0,Q2,Europe,count,0.0074622361692219695,True,False,7465
+uniform,0.001,0,Q2,Latin America,count,0.010851776966454323,True,False,2380
+uniform,0.001,0,Q2,Middle East,count,0.016008350809750098,True,False,1776
+uniform,0.001,0,Q2,North America,count,0.009869466804884805,True,False,8936
+uniform,0.001,0,Q2,Oceania,count,0.03448933119514731,True,False,156
+uniform,0.001,0,Q2,South Asia,count,0.0004374001399069759,True,False,3611
+uniform,0.001,0,Q3,Africa,avg_revenue,0.020792363808466913,True,False,248
+uniform,0.001,0,Q3,East Asia,avg_revenue,0.0038392105782253465,True,False,1196
+uniform,0.001,0,Q3,Europe,avg_revenue,0.005619470931812628,True,False,1974
+uniform,0.001,0,Q3,Latin America,avg_revenue,0.0069528877334799335,True,False,615
+uniform,0.001,0,Q3,Middle East,avg_revenue,0.003489803284803901,True,False,490
+uniform,0.001,0,Q3,North America,avg_revenue,0.01821454523148673,True,False,2329
+uniform,0.001,0,Q3,Oceania,avg_revenue,0.009252339534381426,True,False,46
+uniform,0.001,0,Q3,South Asia,avg_revenue,0.030191734349162894,True,False,916
+uniform,0.001,0,Q4,C01,count,0.6568161079174462,True,False,4
+uniform,0.001,0,Q4,C02,count,0.2643884153267691,True,False,25
+uniform,0.001,0,Q4,C03,count,0.020205655223090615,True,False,3202
+uniform,0.001,0,Q4,C04,count,0.04630157239475787,True,False,158
+uniform,0.001,0,Q4,C05,count,0.011022439275843458,True,False,972
+uniform,0.001,0,Q4,C06,count,0.1011679081794292,False,False,317
+uniform,0.001,0,Q4,C07,count,0.8802245977167812,True,False,4
+uniform,0.001,0,Q4,C08,count,0.023470701525628867,True,False,227
+uniform,0.001,0,Q4,C09,count,0.2703178143893707,True,False,6
+uniform,0.001,0,Q4,C10,count,0.03486051022330765,True,False,7
+uniform,0.001,0,Q4,C11,count,0.22294067558755418,True,False,46
+uniform,0.001,0,Q4,C12,count,1.0,False,True,0
+uniform,0.001,0,Q4,C13,count,0.008375929580750919,True,False,568
+uniform,0.001,0,Q4,C14,count,0.21584035724307707,True,False,1
+uniform,0.001,0,Q4,C15,count,0.03916277066822351,True,False,331
+uniform,0.001,0,Q4,C16,count,0.2510240722327092,True,False,22
+uniform,0.001,0,Q4,C17,count,0.007229039895774045,True,False,651
+uniform,0.001,0,Q4,C18,count,1.0,False,True,0
+uniform,0.001,0,Q4,C19,count,0.20070355990968208,True,False,3
+uniform,0.001,0,Q4,C20,count,0.1748480309595953,True,False,54
+uniform,0.001,0,Q4,C22,count,0.06883833573446863,True,False,147
+uniform,0.001,0,Q4,C23,count,0.011341717479892061,True,False,480
+uniform,0.001,0,Q4,C24,count,0.014869387180643383,True,False,262
+uniform,0.001,0,Q4,C25,count,0.042252662821815445,True,False,111
+uniform,0.001,0,Q4,C26,count,0.2705402649062936,True,False,4
+uniform,0.001,0,Q4,C27,count,0.1323951572987704,False,False,327
+uniform,0.001,0,Q4,C28,count,0.03905393133257931,True,False,191
+uniform,0.001,0,Q4,C29,count,0.14577646054230065,True,False,31
+uniform,0.001,0,Q4,C30,count,0.021156462553079517,True,False,9
+uniform,0.001,0,Q4,C31,count,0.42102840131282043,True,False,1
+uniform,0.001,0,Q4,C32,count,1.0,False,True,0
+uniform,0.001,0,Q4,C33,count,0.026450972116637685,True,False,208
+uniform,0.001,0,Q4,C35,count,0.311946795763062,True,False,1
+uniform,0.001,0,Q4,C36,count,0.056212432928530065,True,False,14
+uniform,0.001,0,Q4,C37,count,0.08289528069209093,True,False,103
+uniform,0.001,0,Q4,C38,count,0.08629304883866115,True,False,305
+uniform,0.001,0,Q4,C39,count,0.18996112832039821,False,False,96
+uniform,0.001,0,Q4,C40,count,0.4283319421219477,True,False,1
+uniform,0.001,0,Q4,C41,count,0.09106589204533719,True,False,57
+uniform,0.001,0,Q4,C42,count,1.0,False,True,0
+uniform,0.001,0,Q4,C43,count,0.007679046598759959,True,False,212
+uniform,0.001,0,Q4,C44,count,0.6711777397957377,False,False,1
+uniform,0.001,0,Q4,C45,count,3.260637149313347,True,False,1
+uniform,0.001,0,Q4,C46,count,1.0,False,True,0
+uniform,0.001,0,Q4,C47,count,0.6828848928322311,True,False,7
+uniform,0.001,0,Q4,C48,count,1.1394615728311657,True,False,2
+uniform,0.001,0,Q4,C49,count,0.0067766251322612945,True,False,326
+uniform,0.001,0,Q4,C50,count,1.0,False,True,0
+uniform,0.001,0,Q4,C01,avg_quantity,0.3095238095238096,True,False,4
+uniform,0.001,0,Q4,C02,avg_quantity,0.20660324893897258,True,False,25
+uniform,0.001,0,Q4,C03,avg_quantity,0.01143348815243296,True,False,3202
+uniform,0.001,0,Q4,C04,avg_quantity,0.05919131003565438,True,False,158
+uniform,0.001,0,Q4,C05,avg_quantity,0.009630991619950817,True,False,972
+uniform,0.001,0,Q4,C06,avg_quantity,0.04505620335761946,True,False,317
+uniform,0.001,0,Q4,C07,avg_quantity,0.5363203642384107,True,False,4
+uniform,0.001,0,Q4,C08,avg_quantity,0.09223381951015737,False,False,227
+uniform,0.001,0,Q4,C09,avg_quantity,0.32374615046194444,False,False,6
+uniform,0.001,0,Q4,C10,avg_quantity,0.03745806932538198,True,False,7
+uniform,0.001,0,Q4,C11,avg_quantity,0.023814525896161835,True,False,46
+uniform,0.001,0,Q4,C12,avg_quantity,1.0,False,True,0
+uniform,0.001,0,Q4,C13,avg_quantity,0.00487120674048631,True,False,568
+uniform,0.001,0,Q4,C14,avg_quantity,0.5652173913043478,False,False,1
+uniform,0.001,0,Q4,C15,avg_quantity,0.012649270323376528,True,False,331
+uniform,0.001,0,Q4,C16,avg_quantity,0.14103081609649745,True,False,22
+uniform,0.001,0,Q4,C17,avg_quantity,0.018572285868987657,True,False,651
+uniform,0.001,0,Q4,C18,avg_quantity,1.0,False,True,0
+uniform,0.001,0,Q4,C19,avg_quantity,0.4035465232117952,False,False,3
+uniform,0.001,0,Q4,C20,avg_quantity,0.0669934480122075,True,False,54
+uniform,0.001,0,Q4,C22,avg_quantity,0.06159536282753612,True,False,147
+uniform,0.001,0,Q4,C23,avg_quantity,0.011004745389181836,True,False,480
+uniform,0.001,0,Q4,C24,avg_quantity,0.03952284348035965,True,False,262
+uniform,0.001,0,Q4,C25,avg_quantity,0.04342115568455982,True,False,111
+uniform,0.001,0,Q4,C26,avg_quantity,0.5455977382875605,True,False,4
+uniform,0.001,0,Q4,C27,avg_quantity,0.021181351324738154,True,False,327
+uniform,0.001,0,Q4,C28,avg_quantity,0.0254122225304937,True,False,191
+uniform,0.001,0,Q4,C29,avg_quantity,0.2610872824269308,True,False,31
+uniform,0.001,0,Q4,C30,avg_quantity,0.05046623629470225,True,False,9
+uniform,0.001,0,Q4,C31,avg_quantity,0.08622976916954095,False,False,1
+uniform,0.001,0,Q4,C32,avg_quantity,1.0,False,True,0
+uniform,0.001,0,Q4,C33,avg_quantity,0.07173990567788267,True,False,208
+uniform,0.001,0,Q4,C35,avg_quantity,0.545483061480552,False,False,1
+uniform,0.001,0,Q4,C36,avg_quantity,0.0045657329471453555,True,False,14
+uniform,0.001,0,Q4,C37,avg_quantity,0.1589135242011195,False,False,103
+uniform,0.001,0,Q4,C38,avg_quantity,0.0596380890186766,True,False,305
+uniform,0.001,0,Q4,C39,avg_quantity,0.009300392291503885,True,False,96
+uniform,0.001,0,Q4,C40,avg_quantity,0.5395987328405492,False,False,1
+uniform,0.001,0,Q4,C41,avg_quantity,0.021322869619883576,True,False,57
+uniform,0.001,0,Q4,C42,avg_quantity,1.0,False,True,0
+uniform,0.001,0,Q4,C43,avg_quantity,0.012203217158177116,True,False,212
+uniform,0.001,0,Q4,C44,avg_quantity,0.5526043972259111,False,False,1
+uniform,0.001,0,Q4,C45,avg_quantity,0.10172744721689063,False,False,1
+uniform,0.001,0,Q4,C46,avg_quantity,1.0,False,True,0
+uniform,0.001,0,Q4,C47,avg_quantity,0.28825750483679696,True,False,7
+uniform,0.001,0,Q4,C48,avg_quantity,0.09073170731707324,True,False,2
+uniform,0.001,0,Q4,C49,avg_quantity,0.07575514962752725,True,False,326
+uniform,0.001,0,Q4,C50,avg_quantity,1.0,False,True,0
+uniform,0.001,0,Q5,__all__,sum_revenue,0.09690559638464902,True,False,166
+uniform,0.005,0,Q1,Africa,avg_price,0.01131328659439397,True,False,17259
+uniform,0.005,0,Q1,East Asia,avg_price,0.0011992191932623881,True,False,75514
+uniform,0.005,0,Q1,Europe,avg_price,0.0007930664323748259,True,False,125450
+uniform,0.005,0,Q1,Latin America,avg_price,0.0017049604701879697,True,False,39565
+uniform,0.005,0,Q1,Middle East,avg_price,0.0017642499134610757,True,False,30321
+uniform,0.005,0,Q1,North America,avg_price,0.00018210645152192867,True,False,150368
+uniform,0.005,0,Q1,Oceania,avg_price,0.0152377911230212,True,False,2544
+uniform,0.005,0,Q1,South Asia,avg_price,0.003896480347617318,True,False,59258
+uniform,0.005,0,Q2,Africa,sum_revenue,0.022424873115782767,True,False,5245
+uniform,0.005,0,Q2,East Asia,sum_revenue,0.012031305654284575,True,False,22653
+uniform,0.005,0,Q2,Europe,sum_revenue,0.01700392860615628,True,False,37838
+uniform,0.005,0,Q2,Latin America,sum_revenue,0.0369318027475246,False,False,11878
+uniform,0.005,0,Q2,Middle East,sum_revenue,0.0018523059181052206,True,False,9072
+uniform,0.005,0,Q2,North America,sum_revenue,0.0001282317795734855,True,False,45162
+uniform,0.005,0,Q2,Oceania,sum_revenue,0.05260544338478993,True,False,741
+uniform,0.005,0,Q2,South Asia,sum_revenue,0.0027277821036529593,True,False,17945
+uniform,0.005,0,Q2,Africa,count,0.0016340966615753124,True,False,5245
+uniform,0.005,0,Q2,East Asia,count,0.0068786699897482395,True,False,22653
+uniform,0.005,0,Q2,Europe,count,0.008655173157667829,True,False,37838
+uniform,0.005,0,Q2,Latin America,count,0.010251029251400878,True,False,11878
+uniform,0.005,0,Q2,Middle East,count,0.007740731755367325,True,False,9072
+uniform,0.005,0,Q2,North America,count,0.0032745123718069657,True,False,45162
+uniform,0.005,0,Q2,Oceania,count,0.014816917633371682,True,False,741
+uniform,0.005,0,Q2,South Asia,count,0.0040826645444704485,True,False,17945
+uniform,0.005,0,Q3,Africa,avg_revenue,0.012499040051494796,True,False,1356
+uniform,0.005,0,Q3,East Asia,avg_revenue,0.010327369470813034,True,False,5956
+uniform,0.005,0,Q3,Europe,avg_revenue,0.0014114032797683288,True,False,9755
+uniform,0.005,0,Q3,Latin America,avg_revenue,0.018310259961625497,True,False,2983
+uniform,0.005,0,Q3,Middle East,avg_revenue,0.01679143639676927,True,False,2428
+uniform,0.005,0,Q3,North America,avg_revenue,0.0006240604755887235,True,False,11785
+uniform,0.005,0,Q3,Oceania,avg_revenue,0.04107342879193255,True,False,193
+uniform,0.005,0,Q3,South Asia,avg_revenue,0.015477440728178625,True,False,4689
+uniform,0.005,0,Q4,C01,count,0.3287143314537343,True,False,16
+uniform,0.005,0,Q4,C02,count,0.0028934445141251034,True,False,170
+uniform,0.005,0,Q4,C03,count,0.0011622439993834634,True,False,16319
+uniform,0.005,0,Q4,C04,count,0.02260522722477254,True,False,845
+uniform,0.005,0,Q4,C05,count,0.011606476178156369,True,False,4959
+uniform,0.005,0,Q4,C06,count,0.024485091205427273,True,False,1716
+uniform,0.005,0,Q4,C07,count,0.2460595483712545,True,False,8
+uniform,0.005,0,Q4,C08,count,0.004680416374401952,True,False,1154
+uniform,0.005,0,Q4,C09,count,0.07346162905017027,True,False,38
+uniform,0.005,0,Q4,C10,count,0.13337393884122767,True,False,41
+uniform,0.005,0,Q4,C11,count,0.002080768533035958,True,False,188
+uniform,0.005,0,Q4,C12,count,1.0,False,True,0
+uniform,0.005,0,Q4,C13,count,0.02438272022658818,True,False,2878
+uniform,0.005,0,Q4,C14,count,0.2687007479094958,True,False,3
+uniform,0.005,0,Q4,C15,count,0.00653477600963324,True,False,1707
+uniform,0.005,0,Q4,C16,count,0.023935458424306767,True,False,143
+uniform,0.005,0,Q4,C17,count,0.00958401371455675,True,False,3302
+uniform,0.005,0,Q4,C18,count,0.06594176524265814,True,False,3
+uniform,0.005,0,Q4,C19,count,0.0919016948029905,True,False,17
+uniform,0.005,0,Q4,C20,count,0.059965004339362686,True,False,243
+uniform,0.005,0,Q4,C22,count,0.017273166696496603,True,False,801
+uniform,0.005,0,Q4,C23,count,0.017851943194849774,True,False,2325
+uniform,0.005,0,Q4,C24,count,0.03389003580579788,True,False,1244
+uniform,0.005,0,Q4,C25,count,0.06065500921458919,True,False,543
+uniform,0.005,0,Q4,C26,count,0.1590571370997555,True,False,23
+uniform,0.005,0,Q4,C27,count,0.022010553751283433,True,False,1472
+uniform,0.005,0,Q4,C28,count,0.03694585888828017,True,False,1028
+uniform,0.005,0,Q4,C29,count,0.022131565845648345,True,False,177
+uniform,0.005,0,Q4,C30,count,0.09007186872392792,True,False,40
+uniform,0.005,0,Q4,C31,count,0.3929509563628652,True,False,12
+uniform,0.005,0,Q4,C32,count,1.0,False,True,0
+uniform,0.005,0,Q4,C33,count,0.009727265493148366,True,False,1076
+uniform,0.005,0,Q4,C35,count,0.5861522520950908,False,False,3
+uniform,0.005,0,Q4,C36,count,0.08906313137655121,True,False,72
+uniform,0.005,0,Q4,C37,count,0.07291258242919588,True,False,509
+uniform,0.005,0,Q4,C38,count,0.0546140638139302,False,False,1574
+uniform,0.005,0,Q4,C39,count,0.025561509791047488,True,False,576
+uniform,0.005,0,Q4,C40,count,0.3123103363369112,True,False,6
+uniform,0.005,0,Q4,C41,count,0.045448436579912134,True,False,327
+uniform,0.005,0,Q4,C42,count,1.0,False,True,0
+uniform,0.005,0,Q4,C43,count,0.055901598370367005,True,False,1108
+uniform,0.005,0,Q4,C44,count,0.5385160832234506,False,False,7
+uniform,0.005,0,Q4,C45,count,0.1457758024014053,True,False,1
+uniform,0.005,0,Q4,C46,count,1.0,False,True,0
+uniform,0.005,0,Q4,C47,count,0.15681772213978967,True,False,24
+uniform,0.005,0,Q4,C48,count,0.28683559380732504,True,False,6
+uniform,0.005,0,Q4,C49,count,0.012273577971369087,True,False,1617
+uniform,0.005,0,Q4,C50,count,0.5143065321065997,True,False,1
+uniform,0.005,0,Q4,C01,avg_quantity,0.22321428571428575,False,False,16
+uniform,0.005,0,Q4,C02,avg_quantity,0.15940250639590353,False,False,170
+uniform,0.005,0,Q4,C03,avg_quantity,0.0033709484213387516,True,False,16319
+uniform,0.005,0,Q4,C04,avg_quantity,0.012213292466841252,True,False,845
+uniform,0.005,0,Q4,C05,avg_quantity,0.007952662812031863,True,False,4959
+uniform,0.005,0,Q4,C06,avg_quantity,0.03819659879994395,False,False,1716
+uniform,0.005,0,Q4,C07,avg_quantity,0.152240273178808,True,False,8
+uniform,0.005,0,Q4,C08,avg_quantity,0.04635876429896176,False,False,1154
+uniform,0.005,0,Q4,C09,avg_quantity,0.027143584875078064,True,False,38
+uniform,0.005,0,Q4,C10,avg_quantity,0.0030256750573467517,True,False,41
+uniform,0.005,0,Q4,C11,avg_quantity,0.009897705199710042,True,False,188
+uniform,0.005,0,Q4,C12,avg_quantity,1.0,False,True,0
+uniform,0.005,0,Q4,C13,avg_quantity,0.009959534932772436,True,False,2878
+uniform,0.005,0,Q4,C14,avg_quantity,0.7391304347826089,True,False,3
+uniform,0.005,0,Q4,C15,avg_quantity,0.019509209225803608,True,False,1707
+uniform,0.005,0,Q4,C16,avg_quantity,0.024613747215802867,True,False,143
+uniform,0.005,0,Q4,C17,avg_quantity,0.013451643729843693,True,False,3302
+uniform,0.005,0,Q4,C18,avg_quantity,0.40431454418928325,False,False,3
+uniform,0.005,0,Q4,C19,avg_quantity,0.0526915368657923,True,False,17
+uniform,0.005,0,Q4,C20,avg_quantity,0.05033261672671113,True,False,243
+uniform,0.005,0,Q4,C22,avg_quantity,0.01960087821612167,True,False,801
+uniform,0.005,0,Q4,C23,avg_quantity,0.01769661810971643,True,False,2325
+uniform,0.005,0,Q4,C24,avg_quantity,0.021334806506176068,True,False,1244
+uniform,0.005,0,Q4,C25,avg_quantity,0.025812848888928194,True,False,543
+uniform,0.005,0,Q4,C26,avg_quantity,0.2863981175809508,True,False,23
+uniform,0.005,0,Q4,C27,avg_quantity,0.016361915494367538,True,False,1472
+uniform,0.005,0,Q4,C28,avg_quantity,0.00676574597941991,True,False,1028
+uniform,0.005,0,Q4,C29,avg_quantity,0.07387736440446419,True,False,177
+uniform,0.005,0,Q4,C30,avg_quantity,0.046714571165078725,True,False,40
+uniform,0.005,0,Q4,C31,avg_quantity,0.027991509684266433,True,False,12
+uniform,0.005,0,Q4,C32,avg_quantity,1.0,False,True,0
+uniform,0.005,0,Q4,C33,avg_quantity,0.014334389647817117,True,False,1076
+uniform,0.005,0,Q4,C35,avg_quantity,0.09096612296110407,True,False,3
+uniform,0.005,0,Q4,C36,avg_quantity,0.0884105547239988,True,False,72
+uniform,0.005,0,Q4,C37,avg_quantity,0.06301238430439667,False,False,509
+uniform,0.005,0,Q4,C38,avg_quantity,0.02140321858191324,True,False,1574
+uniform,0.005,0,Q4,C39,avg_quantity,0.022783876204584764,True,False,576
+uniform,0.005,0,Q4,C40,avg_quantity,0.3861316437873989,False,False,6
+uniform,0.005,0,Q4,C41,avg_quantity,0.034536355782756406,True,False,327
+uniform,0.005,0,Q4,C42,avg_quantity,1.0,False,True,0
+uniform,0.005,0,Q4,C43,avg_quantity,0.03372217845355724,True,False,1108
+uniform,0.005,0,Q4,C44,avg_quantity,0.4886907396867555,False,False,7
+uniform,0.005,0,Q4,C45,avg_quantity,0.10172744721689063,False,False,1
+uniform,0.005,0,Q4,C46,avg_quantity,1.0,False,True,0
+uniform,0.005,0,Q4,C47,avg_quantity,0.16963375564292985,True,False,24
+uniform,0.005,0,Q4,C48,avg_quantity,0.24227642276422776,True,False,6
+uniform,0.005,0,Q4,C49,avg_quantity,0.016193518752372373,True,False,1617
+uniform,0.005,0,Q4,C50,avg_quantity,2.7358490566037736,False,False,1
+uniform,0.005,0,Q5,__all__,sum_revenue,0.019597436832581548,True,False,733
+uniform,0.01,0,Q1,Africa,avg_price,0.011492814034445922,False,False,34488
+uniform,0.01,0,Q1,East Asia,avg_price,0.0029837119412100283,True,False,150607
+uniform,0.01,0,Q1,Europe,avg_price,0.0012612283186855305,True,False,250634
+uniform,0.01,0,Q1,Latin America,avg_price,0.0014671721256122215,True,False,79282
+uniform,0.01,0,Q1,Middle East,avg_price,0.003259534534208628,True,False,60460
+uniform,0.01,0,Q1,North America,avg_price,0.0007574098205525743,True,False,299828
+uniform,0.01,0,Q1,Oceania,avg_price,0.007512264973451758,True,False,5076
+uniform,0.01,0,Q1,South Asia,avg_price,0.005260653267907588,True,False,119313
+uniform,0.01,0,Q2,Africa,sum_revenue,0.037597875255691124,False,False,10323
+uniform,0.01,0,Q2,East Asia,sum_revenue,0.010295670825706602,True,False,45174
+uniform,0.01,0,Q2,Europe,sum_revenue,0.01358610028106024,False,False,75563
+uniform,0.01,0,Q2,Latin America,sum_revenue,0.01137890241681473,True,False,23726
+uniform,0.01,0,Q2,Middle East,sum_revenue,0.002995170767711461,True,False,18099
+uniform,0.01,0,Q2,North America,sum_revenue,0.005882990515392223,True,False,90023
+uniform,0.01,0,Q2,Oceania,sum_revenue,0.027968721301448413,True,False,1502
+uniform,0.01,0,Q2,South Asia,sum_revenue,0.005588112795564442,True,False,35785
+uniform,0.01,0,Q2,Africa,count,0.016672988303770408,True,False,10323
+uniform,0.01,0,Q2,East Asia,count,0.004818812289108254,True,False,45174
+uniform,0.01,0,Q2,Europe,count,0.008025534430387036,False,False,75563
+uniform,0.01,0,Q2,Latin America,count,0.010640660115881582,True,False,23726
+uniform,0.01,0,Q2,Middle East,count,0.006116207725706327,True,False,18099
+uniform,0.01,0,Q2,North America,count,0.0008013642066208611,True,False,90023
+uniform,0.01,0,Q2,Oceania,count,0.0006526520627092088,True,False,1502
+uniform,0.01,0,Q2,South Asia,count,0.006132143473734035,True,False,35785
+uniform,0.01,0,Q3,Africa,avg_revenue,0.027283503499730594,True,False,2649
+uniform,0.01,0,Q3,East Asia,avg_revenue,0.00302331328873599,True,False,11756
+uniform,0.01,0,Q3,Europe,avg_revenue,0.005988693033041099,True,False,19481
+uniform,0.01,0,Q3,Latin America,avg_revenue,0.030450126158263723,False,False,6078
+uniform,0.01,0,Q3,Middle East,avg_revenue,0.02009362176557157,True,False,4805
+uniform,0.01,0,Q3,North America,avg_revenue,0.0036648791792769546,True,False,23465
+uniform,0.01,0,Q3,Oceania,avg_revenue,0.013421221182209038,True,False,378
+uniform,0.01,0,Q3,South Asia,avg_revenue,0.014180093790888085,True,False,9308
+uniform,0.01,0,Q4,C01,count,0.2883122151477276,True,False,31
+uniform,0.01,0,Q4,C02,count,0.0021382731383267424,True,False,338
+uniform,0.01,0,Q4,C03,count,0.0015730054249219695,True,False,32623
+uniform,0.01,0,Q4,C04,count,0.0004816705388788484,True,False,1652
+uniform,0.01,0,Q4,C05,count,0.00486773552462213,True,False,9748
+uniform,0.01,0,Q4,C06,count,0.02192919851284032,True,False,3438
+uniform,0.01,0,Q4,C07,count,0.15107884239797956,True,False,18
+uniform,0.01,0,Q4,C08,count,0.0005020114749196059,True,False,2318
+uniform,0.01,0,Q4,C09,count,0.15806861772588104,True,False,69
+uniform,0.01,0,Q4,C10,count,0.037524648085721986,True,False,75
+uniform,0.01,0,Q4,C11,count,0.03172371044265427,True,False,363
+uniform,0.01,0,Q4,C12,count,1.0,False,True,0
+uniform,0.01,0,Q4,C13,count,0.02402735249905011,True,False,5749
+uniform,0.01,0,Q4,C14,count,0.39005359916196286,True,False,5
+uniform,0.01,0,Q4,C15,count,0.006252692866763205,True,False,3412
+uniform,0.01,0,Q4,C16,count,0.0709069814381712,True,False,272
+uniform,0.01,0,Q4,C17,count,0.007439270982643897,True,False,6487
+uniform,0.01,0,Q4,C18,count,0.0906829722150569,True,False,7
+uniform,0.01,0,Q4,C19,count,0.03764736757141349,True,False,36
+uniform,0.01,0,Q4,C20,count,0.02596112551218543,True,False,470
+uniform,0.01,0,Q4,C22,count,0.023242907373153203,True,False,1610
+uniform,0.01,0,Q4,C23,count,0.011289449559164933,True,False,4677
+uniform,0.01,0,Q4,C24,count,0.03654706998450175,True,False,2479
+uniform,0.01,0,Q4,C25,count,0.039926164028638966,True,False,1109
+uniform,0.01,0,Q4,C26,count,0.12173073579714146,True,False,48
+uniform,0.01,0,Q4,C27,count,0.004201309808309356,True,False,2866
+uniform,0.01,0,Q4,C28,count,0.013618362330068488,True,False,2008
+uniform,0.01,0,Q4,C29,count,0.004692089619476875,True,False,360
+uniform,0.01,0,Q4,C30,count,0.112047984577197,True,False,78
+uniform,0.01,0,Q4,C31,count,0.33607306850236685,True,False,23
+uniform,0.01,0,Q4,C32,count,1.0,False,True,0
+uniform,0.01,0,Q4,C33,count,0.018589414108874765,True,False,2169
+uniform,0.01,0,Q4,C35,count,0.37868813827678216,True,False,9
+uniform,0.01,0,Q4,C36,count,0.021885230007880386,True,False,135
+uniform,0.01,0,Q4,C37,count,0.04747483648753031,True,False,993
+uniform,0.01,0,Q4,C38,count,0.03756029573534638,False,False,3202
+uniform,0.01,0,Q4,C39,count,0.00999723430687933,True,False,1193
+uniform,0.01,0,Q4,C40,count,0.08228247947304505,True,False,16
+uniform,0.01,0,Q4,C41,count,0.006359856128219645,True,False,629
+uniform,0.01,0,Q4,C42,count,1.0,False,True,0
+uniform,0.01,0,Q4,C43,count,0.018191249574163154,True,False,2135
+uniform,0.01,0,Q4,C44,count,0.4061471717434415,False,False,18
+uniform,0.01,0,Q4,C45,count,0.28245140689023174,True,False,3
+uniform,0.01,0,Q4,C46,count,0.6196531949146841,True,False,1
+uniform,0.01,0,Q4,C47,count,0.013096409204822563,True,False,42
+uniform,0.01,0,Q4,C48,count,0.18062586599980585,True,False,11
+uniform,0.01,0,Q4,C49,count,0.007232810830282903,True,False,3295
+uniform,0.01,0,Q4,C50,count,0.2421878050194084,True,False,1
+uniform,0.01,0,Q4,C01,avg_quantity,0.1981566820276498,False,False,31
+uniform,0.01,0,Q4,C02,avg_quantity,0.05440038915030178,True,False,338
+uniform,0.01,0,Q4,C03,avg_quantity,8.727023395877004e-05,True,False,32623
+uniform,0.01,0,Q4,C04,avg_quantity,0.021939317260009694,True,False,1652
+uniform,0.01,0,Q4,C05,avg_quantity,0.006250811375586613,True,False,9748
+uniform,0.01,0,Q4,C06,avg_quantity,0.02473260982852589,False,False,3438
+uniform,0.01,0,Q4,C07,avg_quantity,0.0973716887417219,True,False,18
+uniform,0.01,0,Q4,C08,avg_quantity,0.0312571365267165,False,False,2318
+uniform,0.01,0,Q4,C09,avg_quantity,0.09768740794582925,True,False,69
+uniform,0.01,0,Q4,C10,avg_quantity,0.01777943429825629,True,False,75
+uniform,0.01,0,Q4,C11,avg_quantity,0.0181468133167548,True,False,363
+uniform,0.01,0,Q4,C12,avg_quantity,1.0,False,True,0
+uniform,0.01,0,Q4,C13,avg_quantity,0.0016512855043164265,True,False,5749
+uniform,0.01,0,Q4,C14,avg_quantity,0.30434782608695643,True,False,5
+uniform,0.01,0,Q4,C15,avg_quantity,0.011531159150879032,True,False,3412
+uniform,0.01,0,Q4,C16,avg_quantity,0.025689540876961913,True,False,272
+uniform,0.01,0,Q4,C17,avg_quantity,0.016758387600231427,True,False,6487
+uniform,0.01,0,Q4,C18,avg_quantity,0.29794214136594077,False,False,7
+uniform,0.01,0,Q4,C19,avg_quantity,0.08046755661818429,True,False,36
+uniform,0.01,0,Q4,C20,avg_quantity,0.01932383747754453,True,False,470
+uniform,0.01,0,Q4,C22,avg_quantity,0.02514916192354574,True,False,1610
+uniform,0.01,0,Q4,C23,avg_quantity,0.017110461315546072,True,False,4677
+uniform,0.01,0,Q4,C24,avg_quantity,0.000567913822673736,True,False,2479
+uniform,0.01,0,Q4,C25,avg_quantity,0.037453791094994415,True,False,1109
+uniform,0.01,0,Q4,C26,avg_quantity,0.22359820947765213,True,False,48
+uniform,0.01,0,Q4,C27,avg_quantity,0.014435114745717442,True,False,2866
+uniform,0.01,0,Q4,C28,avg_quantity,0.022569607367199946,True,False,2008
+uniform,0.01,0,Q4,C29,avg_quantity,0.028518950904007696,True,False,360
+uniform,0.01,0,Q4,C30,avg_quantity,0.001479896269321108,True,False,78
+uniform,0.01,0,Q4,C31,avg_quantity,0.013093082007682898,True,False,23
+uniform,0.01,0,Q4,C32,avg_quantity,1.0,False,True,0
+uniform,0.01,0,Q4,C33,avg_quantity,0.0004025059648831432,True,False,2169
+uniform,0.01,0,Q4,C35,avg_quantity,0.09096612296110407,True,False,9
+uniform,0.01,0,Q4,C36,avg_quantity,0.0276379250389318,True,False,135
+uniform,0.01,0,Q4,C37,avg_quantity,0.015794359591208156,True,False,993
+uniform,0.01,0,Q4,C38,avg_quantity,0.0028933914025416154,True,False,3202
+uniform,0.01,0,Q4,C39,avg_quantity,0.01030319874307004,True,False,1193
+uniform,0.01,0,Q4,C40,avg_quantity,0.22307286166842677,True,False,16
+uniform,0.01,0,Q4,C41,avg_quantity,0.02092318352684419,True,False,629
+uniform,0.01,0,Q4,C42,avg_quantity,1.0,False,True,0
+uniform,0.01,0,Q4,C43,avg_quantity,0.015205849652479128,True,False,2135
+uniform,0.01,0,Q4,C44,avg_quantity,0.15491941698227665,True,False,18
+uniform,0.01,0,Q4,C45,avg_quantity,0.40115163147792704,False,False,3
+uniform,0.01,0,Q4,C46,avg_quantity,0.04537205081669693,False,False,1
+uniform,0.01,0,Q4,C47,avg_quantity,0.13728182404460246,True,False,42
+uniform,0.01,0,Q4,C48,avg_quantity,0.17339246119733934,True,False,11
+uniform,0.01,0,Q4,C49,avg_quantity,0.018831350707134063,True,False,3295
+uniform,0.01,0,Q4,C50,avg_quantity,2.7358490566037728,False,False,1
+uniform,0.01,0,Q5,__all__,sum_revenue,0.020723151498031823,True,False,1475
+uniform,0.05,0,Q1,Africa,avg_price,0.0010169669452678514,True,False,174954
+uniform,0.05,0,Q1,East Asia,avg_price,0.0008737450889960234,True,False,749631
+uniform,0.05,0,Q1,Europe,avg_price,0.00022589701762267694,True,False,1251108
+uniform,0.05,0,Q1,Latin America,avg_price,0.0020359686291603635,True,False,399109
+uniform,0.05,0,Q1,Middle East,avg_price,0.0007991778130955489,True,False,300674
+uniform,0.05,0,Q1,North America,avg_price,0.001652645181751714,False,False,1499888
+uniform,0.05,0,Q1,Oceania,avg_price,0.0006206063848233087,True,False,25141
+uniform,0.05,0,Q1,South Asia,avg_price,0.0020251513963266566,True,False,599841
+uniform,0.05,0,Q2,Africa,sum_revenue,0.000604833184521676,True,False,52648
+uniform,0.05,0,Q2,East Asia,sum_revenue,0.004455680398971361,True,False,224714
+uniform,0.05,0,Q2,Europe,sum_revenue,0.0015485331420400578,True,False,375318
+uniform,0.05,0,Q2,Latin America,sum_revenue,0.002135215148938652,True,False,119596
+uniform,0.05,0,Q2,Middle East,sum_revenue,0.005375468849100547,True,False,90201
+uniform,0.05,0,Q2,North America,sum_revenue,0.0010317865986116856,True,False,450748
+uniform,0.05,0,Q2,Oceania,sum_revenue,0.004305868964328274,True,False,7635
+uniform,0.05,0,Q2,South Asia,sum_revenue,0.0016820212654798975,True,False,180588
+uniform,0.05,0,Q2,Africa,count,0.002624567991895698,True,False,52648
+uniform,0.05,0,Q2,East Asia,count,0.0007048887428207538,True,False,224714
+uniform,0.05,0,Q2,Europe,count,0.000981745208697561,True,False,375318
+uniform,0.05,0,Q2,Latin America,count,0.002964529661410318,True,False,119596
+uniform,0.05,0,Q2,Middle East,count,0.002465280094853387,True,False,90201
+uniform,0.05,0,Q2,North America,count,0.0018267828894735585,True,False,450748
+uniform,0.05,0,Q2,Oceania,count,0.015593693778806962,True,False,7635
+uniform,0.05,0,Q2,South Asia,count,0.002722901777914888,True,False,180588
+uniform,0.05,0,Q3,Africa,avg_revenue,0.01254626983896645,True,False,13516
+uniform,0.05,0,Q3,East Asia,avg_revenue,0.0014024972097801543,True,False,58231
+uniform,0.05,0,Q3,Europe,avg_revenue,0.006354445199481783,False,False,97265
+uniform,0.05,0,Q3,Latin America,avg_revenue,0.016359045719800916,False,False,30981
+uniform,0.05,0,Q3,Middle East,avg_revenue,0.0013781337109409293,True,False,23683
+uniform,0.05,0,Q3,North America,avg_revenue,0.00024082417651202822,True,False,117409
+uniform,0.05,0,Q3,Oceania,avg_revenue,0.012389778576532454,True,False,1950
+uniform,0.05,0,Q3,South Asia,avg_revenue,0.0062406997935109615,True,False,46629
+uniform,0.05,0,Q4,C01,count,0.030256915610720938,True,False,124
+uniform,0.05,0,Q4,C02,count,0.035846036303445336,True,False,1755
+uniform,0.05,0,Q4,C03,count,6.090898318088117e-05,True,False,162911
+uniform,0.05,0,Q4,C04,count,0.006759576903444552,True,False,8315
+uniform,0.05,0,Q4,C05,count,0.005532784947551862,True,False,48726
+uniform,0.05,0,Q4,C06,count,0.004202190407907314,True,False,17656
+uniform,0.05,0,Q4,C07,count,0.131463428331891,True,False,120
+uniform,0.05,0,Q4,C08,count,0.005125564315419583,True,False,11648
+uniform,0.05,0,Q4,C09,count,0.012022503197694597,True,False,405
+uniform,0.05,0,Q4,C10,count,0.023300782109457043,True,False,370
+uniform,0.05,0,Q4,C11,count,0.0015039873029751556,True,False,1878
+uniform,0.05,0,Q4,C12,count,1.0,False,True,0
+uniform,0.05,0,Q4,C13,count,0.006543759899340212,True,False,28265
+uniform,0.05,0,Q4,C14,count,0.3415089822125772,False,False,27
+uniform,0.05,0,Q4,C15,count,0.0007052362815324419,True,False,17186
+uniform,0.05,0,Q4,C16,count,0.007271939260888106,True,False,1475
+uniform,0.05,0,Q4,C17,count,0.006804348283563224,True,False,32913
+uniform,0.05,0,Q4,C18,count,0.09663572153081158,True,False,29
+uniform,0.05,0,Q4,C19,count,0.05404728782720136,True,False,177
+uniform,0.05,0,Q4,C20,count,0.022078753874181782,True,False,2342
+uniform,0.05,0,Q4,C22,count,0.004338494164736778,True,False,7836
+uniform,0.05,0,Q4,C23,count,0.00430931106387222,True,False,23763
+uniform,0.05,0,Q4,C24,count,0.006300697600652765,True,False,12789
+uniform,0.05,0,Q4,C25,count,0.005226938451638451,True,False,5808
+uniform,0.05,0,Q4,C26,count,0.11109132773528815,False,False,243
+uniform,0.05,0,Q4,C27,count,0.00820049397167156,True,False,14514
+uniform,0.05,0,Q4,C28,count,0.01040625113951529,True,False,10012
+uniform,0.05,0,Q4,C29,count,0.00708876278947424,True,False,1822
+uniform,0.05,0,Q4,C30,count,0.05321221169469357,True,False,416
+uniform,0.05,0,Q4,C31,count,0.19620061432283153,True,False,103
+uniform,0.05,0,Q4,C32,count,0.8180560087060158,True,False,1
+uniform,0.05,0,Q4,C33,count,0.004049990874110033,True,False,10608
+uniform,0.05,0,Q4,C35,count,0.007521721870897729,True,False,73
+uniform,0.05,0,Q4,C36,count,0.0033357905026843077,True,False,663
+uniform,0.05,0,Q4,C37,count,0.0188161254325827,True,False,4831
+uniform,0.05,0,Q4,C38,count,0.005657750791337479,True,False,16547
+uniform,0.05,0,Q4,C39,count,0.013166626741395463,True,False,5986
+uniform,0.05,0,Q4,C40,count,0.10556648195541209,True,False,78
+uniform,0.05,0,Q4,C41,count,0.01589208150976253,True,False,3176
+uniform,0.05,0,Q4,C42,count,1.0,False,True,0
+uniform,0.05,0,Q4,C43,count,0.00040766838769505827,True,False,10484
+uniform,0.05,0,Q4,C44,count,0.023814253900595765,True,False,148
+uniform,0.05,0,Q4,C45,count,0.025570056193137118,True,False,12
+uniform,0.05,0,Q4,C46,count,0.06456511536397878,True,False,14
+uniform,0.05,0,Q4,C47,count,0.025869194274230324,True,False,202
+uniform,0.05,0,Q4,C48,count,0.16314803891107227,True,False,39
+uniform,0.05,0,Q4,C49,count,0.000859733648995148,True,False,16377
+uniform,0.05,0,Q4,C50,count,0.545485997823496,False,False,3
+uniform,0.05,0,Q4,C01,avg_quantity,0.0422427035330262,True,False,124
+uniform,0.05,0,Q4,C02,avg_quantity,0.03265599440046966,False,False,1755
+uniform,0.05,0,Q4,C03,avg_quantity,0.0009550803336665026,True,False,162911
+uniform,0.05,0,Q4,C04,avg_quantity,0.009773267395686057,True,False,8315
+uniform,0.05,0,Q4,C05,avg_quantity,0.0016725811972891998,True,False,48726
+uniform,0.05,0,Q4,C06,avg_quantity,0.005500141727678848,True,False,17656
+uniform,0.05,0,Q4,C07,avg_quantity,0.01968129139072841,True,False,120
+uniform,0.05,0,Q4,C08,avg_quantity,0.0016956228053432818,True,False,11648
+uniform,0.05,0,Q4,C09,avg_quantity,0.047122147811398465,True,False,405
+uniform,0.05,0,Q4,C10,avg_quantity,0.022202187278594302,True,False,370
+uniform,0.05,0,Q4,C11,avg_quantity,0.004292528749401747,True,False,1878
+uniform,0.05,0,Q4,C12,avg_quantity,1.0,False,True,0
+uniform,0.05,0,Q4,C13,avg_quantity,0.002677678333607486,True,False,28265
+uniform,0.05,0,Q4,C14,avg_quantity,0.14331723027375196,True,False,27
+uniform,0.05,0,Q4,C15,avg_quantity,0.0015688483488962431,True,False,17186
+uniform,0.05,0,Q4,C16,avg_quantity,0.011665481377858705,True,False,1475
+uniform,0.05,0,Q4,C17,avg_quantity,0.005319541993302886,True,False,32913
+uniform,0.05,0,Q4,C18,avg_quantity,0.10647181628392482,True,False,29
+uniform,0.05,0,Q4,C19,avg_quantity,0.04632092961998645,True,False,177
+uniform,0.05,0,Q4,C20,avg_quantity,0.0037007853533429728,True,False,2342
+uniform,0.05,0,Q4,C22,avg_quantity,0.010100308392193828,True,False,7836
+uniform,0.05,0,Q4,C23,avg_quantity,0.006154932313112581,True,False,23763
+uniform,0.05,0,Q4,C24,avg_quantity,0.008012298820426497,True,False,12789
+uniform,0.05,0,Q4,C25,avg_quantity,0.004481025470669498,True,False,5808
+uniform,0.05,0,Q4,C26,avg_quantity,0.03138907171396849,True,False,243
+uniform,0.05,0,Q4,C27,avg_quantity,0.005598980479650001,True,False,14514
+uniform,0.05,0,Q4,C28,avg_quantity,0.001964064894658155,True,False,10012
+uniform,0.05,0,Q4,C29,avg_quantity,0.011167427460432108,True,False,1822
+uniform,0.05,0,Q4,C30,avg_quantity,0.029182751424720526,True,False,416
+uniform,0.05,0,Q4,C31,avg_quantity,0.15720221428258638,False,False,103
+uniform,0.05,0,Q4,C32,avg_quantity,0.4210526315789474,False,False,1
+uniform,0.05,0,Q4,C33,avg_quantity,0.001490068777985244,True,False,10608
+uniform,0.05,0,Q4,C35,avg_quantity,0.0833691411285471,True,False,73
+uniform,0.05,0,Q4,C36,avg_quantity,0.0019019425181127664,True,False,663
+uniform,0.05,0,Q4,C37,avg_quantity,0.0019443025513996967,True,False,4831
+uniform,0.05,0,Q4,C38,avg_quantity,0.007225712491022012,True,False,16547
+uniform,0.05,0,Q4,C39,avg_quantity,0.004575172066693042,True,False,5986
+uniform,0.05,0,Q4,C40,avg_quantity,0.037879403243711585,True,False,78
+uniform,0.05,0,Q4,C41,avg_quantity,0.025701320826429983,False,False,3176
+uniform,0.05,0,Q4,C42,avg_quantity,1.0,False,True,0
+uniform,0.05,0,Q4,C43,avg_quantity,0.0005839530785070597,True,False,10484
+uniform,0.05,0,Q4,C44,avg_quantity,0.11125468097579662,False,False,148
+uniform,0.05,0,Q4,C45,avg_quantity,0.43857965451055664,False,False,12
+uniform,0.05,0,Q4,C46,avg_quantity,0.02281565983925326,True,False,14
+uniform,0.05,0,Q4,C47,avg_quantity,0.03141801729321027,True,False,202
+uniform,0.05,0,Q4,C48,avg_quantity,0.025841150719199624,True,False,39
+uniform,0.05,0,Q4,C49,avg_quantity,0.0008201706352414699,True,False,16377
+uniform,0.05,0,Q4,C50,avg_quantity,0.660377358490566,True,False,3
+uniform,0.05,0,Q5,__all__,sum_revenue,0.010048799758819693,True,False,7429
+stratified,0.001,0,Q1,Africa,avg_price,0.0009986430106931688,True,False,3401
+stratified,0.001,0,Q1,East Asia,avg_price,0.006515207229081244,True,False,15095
+stratified,0.001,0,Q1,Europe,avg_price,0.012220561732349812,True,False,25107
+stratified,0.001,0,Q1,Latin America,avg_price,0.021381094743753628,False,False,8164
+stratified,0.001,0,Q1,Middle East,avg_price,0.0023530611518844924,True,False,6152
+stratified,0.001,0,Q1,North America,avg_price,0.002120895419820402,True,False,29974
+stratified,0.001,0,Q1,Oceania,avg_price,0.017194649770693543,True,False,2000
+stratified,0.001,0,Q1,South Asia,avg_price,0.0038585281463923314,True,False,11992
+stratified,0.001,0,Q2,Africa,sum_revenue,0.027482398189343313,True,False,1007
+stratified,0.001,0,Q2,East Asia,sum_revenue,0.05126986656254654,True,False,4549
+stratified,0.001,0,Q2,Europe,sum_revenue,0.022593214300884245,True,False,7417
+stratified,0.001,0,Q2,Latin America,sum_revenue,0.07697858711173826,False,False,2380
+stratified,0.001,0,Q2,Middle East,sum_revenue,0.006393187109048725,True,False,1786
+stratified,0.001,0,Q2,North America,sum_revenue,0.006595761973089627,True,False,9133
+stratified,0.001,0,Q2,Oceania,sum_revenue,0.016437345810610012,True,False,578
+stratified,0.001,0,Q2,South Asia,sum_revenue,0.02110243244375827,True,False,3574
+stratified,0.001,0,Q2,Africa,count,0.01339618979912412,True,False,1007
+stratified,0.001,0,Q2,East Asia,count,0.004887181431712078,True,False,4549
+stratified,0.001,0,Q2,Europe,count,0.014996345644127817,True,False,7417
+stratified,0.001,0,Q2,Latin America,count,0.027895866163412518,True,False,2380
+stratified,0.001,0,Q2,Middle East,count,0.031382888088100316,True,False,1786
+stratified,0.001,0,Q2,North America,count,0.015747729555089872,True,False,9133
+stratified,0.001,0,Q2,Oceania,count,0.03809681732016361,True,False,578
+stratified,0.001,0,Q2,South Asia,count,0.00671662507776497,True,False,3574
+stratified,0.001,0,Q3,Africa,avg_revenue,0.053177825772013604,True,False,285
+stratified,0.001,0,Q3,East Asia,avg_revenue,0.0013630984799028556,True,False,1178
+stratified,0.001,0,Q3,Europe,avg_revenue,0.012143172856571486,True,False,2001
+stratified,0.001,0,Q3,Latin America,avg_revenue,0.06073389767581496,True,False,661
+stratified,0.001,0,Q3,Middle East,avg_revenue,0.03735057252098236,True,False,461
+stratified,0.001,0,Q3,North America,avg_revenue,0.01478817229681408,True,False,2318
+stratified,0.001,0,Q3,Oceania,avg_revenue,0.041575702576196645,True,False,185
+stratified,0.001,0,Q3,South Asia,avg_revenue,0.05906385528534329,True,False,934
+stratified,0.001,0,Q4,C01,count,0.17151927852050974,True,False,2
+stratified,0.001,0,Q4,C02,count,0.10299170850840604,True,False,39
+stratified,0.001,0,Q4,C03,count,0.0022161941834036606,True,False,3350
+stratified,0.001,0,Q4,C04,count,0.055134978102386226,True,False,183
+stratified,0.001,0,Q4,C05,count,0.006173487042325892,True,False,999
+stratified,0.001,0,Q4,C06,count,0.04064939877850596,True,False,377
+stratified,0.001,0,Q4,C07,count,0.5398790900825174,True,False,1
+stratified,0.001,0,Q4,C08,count,0.08301476698715093,True,False,217
+stratified,0.001,0,Q4,C09,count,0.14611401475942065,True,False,7
+stratified,0.001,0,Q4,C10,count,0.2757949164217137,True,False,6
+stratified,0.001,0,Q4,C11,count,0.1353951063107244,True,False,45
+stratified,0.001,0,Q4,C12,count,1.0,False,True,0
+stratified,0.001,0,Q4,C13,count,0.003893753110740195,True,False,569
+stratified,0.001,0,Q4,C14,count,0.21150114316644994,True,False,1
+stratified,0.001,0,Q4,C15,count,0.03959359320158959,True,False,369
+stratified,0.001,0,Q4,C16,count,0.10691045822827021,True,False,34
+stratified,0.001,0,Q4,C17,count,0.0174143683508684,True,False,677
+stratified,0.001,0,Q4,C18,count,1.0,False,True,0
+stratified,0.001,0,Q4,C19,count,0.06420010348290343,True,False,4
+stratified,0.001,0,Q4,C20,count,0.11392082753560262,True,False,43
+stratified,0.001,0,Q4,C22,count,0.026295571708293452,True,False,166
+stratified,0.001,0,Q4,C23,count,0.01191896182652879,True,False,477
+stratified,0.001,0,Q4,C24,count,0.03245287541491344,True,False,256
+stratified,0.001,0,Q4,C25,count,0.10908435197567741,True,False,104
+stratified,0.001,0,Q4,C26,count,0.09382749163180489,True,False,6
+stratified,0.001,0,Q4,C27,count,0.01524674031042207,True,False,289
+stratified,0.001,0,Q4,C28,count,0.08677391498880282,True,False,223
+stratified,0.001,0,Q4,C29,count,0.30936623848187894,True,False,49
+stratified,0.001,0,Q4,C30,count,0.5899668542275536,True,False,14
+stratified,0.001,0,Q4,C31,count,1.9000088160062387,True,False,5
+stratified,0.001,0,Q4,C32,count,1.0,False,True,0
+stratified,0.001,0,Q4,C33,count,0.01771972736660862,True,False,215
+stratified,0.001,0,Q4,C35,count,0.30937049054199856,True,False,1
+stratified,0.001,0,Q4,C36,count,0.05599881145912741,True,False,14
+stratified,0.001,0,Q4,C37,count,0.026906970011206906,True,False,100
+stratified,0.001,0,Q4,C38,count,0.05942734218817122,True,False,359
+stratified,0.001,0,Q4,C39,count,0.2184214136972642,False,False,149
+stratified,0.001,0,Q4,C40,count,0.44041487962443776,True,False,1
+stratified,0.001,0,Q4,C41,count,0.07945812992992217,True,False,70
+stratified,0.001,0,Q4,C42,count,1.0,False,True,0
+stratified,0.001,0,Q4,C43,count,0.05695294375828105,True,False,228
+stratified,0.001,0,Q4,C44,count,0.3415084066691788,True,False,2
+stratified,0.001,0,Q4,C45,count,1.0,False,True,0
+stratified,0.001,0,Q4,C46,count,1.0,False,True,0
+stratified,0.001,0,Q4,C47,count,0.4449346337085774,True,False,6
+stratified,0.001,0,Q4,C48,count,0.06848106413562834,True,False,1
+stratified,0.001,0,Q4,C49,count,0.01648604392129615,True,False,337
+stratified,0.001,0,Q4,C50,count,1.0,False,True,0
+stratified,0.001,0,Q4,C01,avg_quantity,0.08104813805854769,True,False,2
+stratified,0.001,0,Q4,C02,avg_quantity,0.13541476139797817,True,False,39
+stratified,0.001,0,Q4,C03,avg_quantity,0.0035729250725046904,True,False,3350
+stratified,0.001,0,Q4,C04,avg_quantity,0.09225261663026943,True,False,183
+stratified,0.001,0,Q4,C05,avg_quantity,0.009649535127923237,True,False,999
+stratified,0.001,0,Q4,C06,avg_quantity,0.08024006332841054,False,False,377
+stratified,0.001,0,Q4,C07,avg_quantity,0.5610513245033112,False,False,1
+stratified,0.001,0,Q4,C08,avg_quantity,0.005571824352060806,True,False,217
+stratified,0.001,0,Q4,C09,avg_quantity,0.03419344651284837,True,False,7
+stratified,0.001,0,Q4,C10,avg_quantity,0.13421046098300451,True,False,6
+stratified,0.001,0,Q4,C11,avg_quantity,0.0137761554727638,True,False,45
+stratified,0.001,0,Q4,C12,avg_quantity,1.0,False,True,0
+stratified,0.001,0,Q4,C13,avg_quantity,0.004748120442306875,True,False,569
+stratified,0.001,0,Q4,C14,avg_quantity,0.7391304347826089,False,False,1
+stratified,0.001,0,Q4,C15,avg_quantity,0.04460784129949068,True,False,369
+stratified,0.001,0,Q4,C16,avg_quantity,0.026931568804246322,True,False,34
+stratified,0.001,0,Q4,C17,avg_quantity,0.033914049072052,True,False,677
+stratified,0.001,0,Q4,C18,avg_quantity,1.0,False,True,0
+stratified,0.001,0,Q4,C19,avg_quantity,0.3277713811263448,True,False,4
+stratified,0.001,0,Q4,C20,avg_quantity,0.06581245879138596,True,False,43
+stratified,0.001,0,Q4,C22,avg_quantity,0.0716469509830548,True,False,166
+stratified,0.001,0,Q4,C23,avg_quantity,0.0014120612718026627,True,False,477
+stratified,0.001,0,Q4,C24,avg_quantity,0.02260826221943871,True,False,256
+stratified,0.001,0,Q4,C25,avg_quantity,0.08835684248328261,True,False,104
+stratified,0.001,0,Q4,C26,avg_quantity,0.19034773313163478,True,False,6
+stratified,0.001,0,Q4,C27,avg_quantity,0.02568758079595864,True,False,289
+stratified,0.001,0,Q4,C28,avg_quantity,0.05057713843578579,True,False,223
+stratified,0.001,0,Q4,C29,avg_quantity,0.11127449236488456,True,False,49
+stratified,0.001,0,Q4,C30,avg_quantity,0.029703524868671664,True,False,14
+stratified,0.001,0,Q4,C31,avg_quantity,0.17733793144394253,True,False,5
+stratified,0.001,0,Q4,C32,avg_quantity,1.0,False,True,0
+stratified,0.001,0,Q4,C33,avg_quantity,0.07730146220869456,True,False,215
+stratified,0.001,0,Q4,C35,avg_quantity,0.09096612296110407,False,False,1
+stratified,0.001,0,Q4,C36,avg_quantity,0.004666819519561451,True,False,14
+stratified,0.001,0,Q4,C37,avg_quantity,0.07085725139632673,True,False,100
+stratified,0.001,0,Q4,C38,avg_quantity,0.01941391616971837,True,False,359
+stratified,0.001,0,Q4,C39,avg_quantity,0.0830605586328864,True,False,149
+stratified,0.001,0,Q4,C40,avg_quantity,0.07919746568109826,False,False,1
+stratified,0.001,0,Q4,C41,avg_quantity,0.014112782788896844,True,False,70
+stratified,0.001,0,Q4,C42,avg_quantity,1.0,False,True,0
+stratified,0.001,0,Q4,C43,avg_quantity,0.03162898387278393,True,False,228
+stratified,0.001,0,Q4,C44,avg_quantity,0.10630631834894838,True,False,2
+stratified,0.001,0,Q4,C45,avg_quantity,1.0,False,True,0
+stratified,0.001,0,Q4,C46,avg_quantity,1.0,False,True,0
+stratified,0.001,0,Q4,C47,avg_quantity,0.2459798261783329,True,False,6
+stratified,0.001,0,Q4,C48,avg_quantity,0.8185365853658535,False,False,1
+stratified,0.001,0,Q4,C49,avg_quantity,0.055315879294436085,True,False,337
+stratified,0.001,0,Q4,C50,avg_quantity,1.0,False,True,0
+stratified,0.001,0,Q5,__all__,sum_revenue,0.032976173929261735,True,False,603
+stratified,0.005,0,Q1,Africa,avg_price,0.00441103445318306,True,False,17653
+stratified,0.005,0,Q1,East Asia,avg_price,0.0007745760878985169,True,False,74953
+stratified,0.005,0,Q1,Europe,avg_price,0.0006478622617114196,True,False,125060
+stratified,0.005,0,Q1,Latin America,avg_price,0.0012141177768650105,True,False,40101
+stratified,0.005,0,Q1,Middle East,avg_price,0.0046917188794909125,True,False,29987
+stratified,0.005,0,Q1,North America,avg_price,0.002278970877150437,True,False,149695
+stratified,0.005,0,Q1,Oceania,avg_price,0.015167466161497632,True,False,2441
+stratified,0.005,0,Q1,South Asia,avg_price,0.00253155000003383,True,False,60054
+stratified,0.005,0,Q2,Africa,sum_revenue,0.0020377599028551605,True,False,5289
+stratified,0.005,0,Q2,East Asia,sum_revenue,0.02792059690472935,False,False,22538
+stratified,0.005,0,Q2,Europe,sum_revenue,0.011430097491943434,True,False,37259
+stratified,0.005,0,Q2,Latin America,sum_revenue,0.006893158711022816,True,False,12049
+stratified,0.005,0,Q2,Middle East,sum_revenue,0.005696377575331031,True,False,8864
+stratified,0.005,0,Q2,North America,sum_revenue,0.0006841976830768579,True,False,44960
+stratified,0.005,0,Q2,Oceania,sum_revenue,0.04435154538508462,True,False,743
+stratified,0.005,0,Q2,South Asia,sum_revenue,0.0048062804567333035,True,False,18032
+stratified,0.005,0,Q2,Africa,count,0.0016679918264089597,True,False,5289
+stratified,0.005,0,Q2,East Asia,count,0.0026765110742327032,True,False,22538
+stratified,0.005,0,Q2,Europe,count,0.006616011786361842,True,False,37259
+stratified,0.005,0,Q2,Latin America,count,0.0019236557208411674,True,False,12049
+stratified,0.005,0,Q2,Middle East,count,0.01375744651572767,True,False,8864
+stratified,0.005,0,Q2,North America,count,0.0012352092511566965,True,False,44960
+stratified,0.005,0,Q2,Oceania,count,0.013105220549066493,True,False,743
+stratified,0.005,0,Q2,South Asia,count,0.0007191192198616087,True,False,18032
+stratified,0.005,0,Q3,Africa,avg_revenue,0.033465279216900595,True,False,1425
+stratified,0.005,0,Q3,East Asia,avg_revenue,0.01881576619044821,True,False,5910
+stratified,0.005,0,Q3,Europe,avg_revenue,0.0038716608661082223,True,False,9776
+stratified,0.005,0,Q3,Latin America,avg_revenue,0.014049827073225645,True,False,3173
+stratified,0.005,0,Q3,Middle East,avg_revenue,0.019162391153012506,True,False,2291
+stratified,0.005,0,Q3,North America,avg_revenue,0.009791477066377485,True,False,11726
+stratified,0.005,0,Q3,Oceania,avg_revenue,0.1419590328834825,False,False,175
+stratified,0.005,0,Q3,South Asia,avg_revenue,0.010368073288646085,True,False,4671
+stratified,0.005,0,Q4,C01,count,0.33471227690624455,True,False,8
+stratified,0.005,0,Q4,C02,count,0.016412513605036996,True,False,172
+stratified,0.005,0,Q4,C03,count,0.0009200978060262042,True,False,16268
+stratified,0.005,0,Q4,C04,count,0.04711513375956316,True,False,864
+stratified,0.005,0,Q4,C05,count,0.0024800313105442858,True,False,4884
+stratified,0.005,0,Q4,C06,count,0.0031478021528712923,True,False,1751
+stratified,0.005,0,Q4,C07,count,0.15069519698093325,True,False,9
+stratified,0.005,0,Q4,C08,count,0.03965498405586033,True,False,1112
+stratified,0.005,0,Q4,C09,count,0.0965533441605283,True,False,37
+stratified,0.005,0,Q4,C10,count,0.1624481247600797,True,False,42
+stratified,0.005,0,Q4,C11,count,0.024807515115923835,True,False,192
+stratified,0.005,0,Q4,C12,count,1.0,False,True,0
+stratified,0.005,0,Q4,C13,count,0.0017331028718370121,True,False,2811
+stratified,0.005,0,Q4,C14,count,0.21977112340137925,True,False,5
+stratified,0.005,0,Q4,C15,count,0.001650127039199432,True,False,1719
+stratified,0.005,0,Q4,C16,count,0.05632949102911272,True,False,138
+stratified,0.005,0,Q4,C17,count,0.0036333906691647616,True,False,3279
+stratified,0.005,0,Q4,C18,count,0.2479830822036927,True,False,4
+stratified,0.005,0,Q4,C19,count,0.12377394227142112,True,False,21
+stratified,0.005,0,Q4,C20,count,0.04339139308840973,True,False,219
+stratified,0.005,0,Q4,C22,count,0.005793904928866443,True,False,791
+stratified,0.005,0,Q4,C23,count,0.01681508508003144,True,False,2325
+stratified,0.005,0,Q4,C24,count,0.022563393143242474,True,False,1257
+stratified,0.005,0,Q4,C25,count,0.034796383742397775,True,False,557
+stratified,0.005,0,Q4,C26,count,0.3768734769942763,False,False,17
+stratified,0.005,0,Q4,C27,count,0.012363323319632883,True,False,1421
+stratified,0.005,0,Q4,C28,count,0.05932808178450847,True,False,1049
+stratified,0.005,0,Q4,C29,count,0.12031770377335362,True,False,159
+stratified,0.005,0,Q4,C30,count,0.04851297675080911,True,False,46
+stratified,0.005,0,Q4,C31,count,0.07041047426795784,True,False,8
+stratified,0.005,0,Q4,C32,count,1.0,False,True,0
+stratified,0.005,0,Q4,C33,count,0.006048720720229375,True,False,1058
+stratified,0.005,0,Q4,C35,count,0.5857687529661123,False,False,3
+stratified,0.005,0,Q4,C36,count,0.04621898901048827,True,False,69
+stratified,0.005,0,Q4,C37,count,0.05038510403981042,True,False,450
+stratified,0.005,0,Q4,C38,count,0.003973461522154524,True,False,1670
+stratified,0.005,0,Q4,C39,count,0.021104615464888316,True,False,578
+stratified,0.005,0,Q4,C40,count,0.19661767033879338,True,False,7
+stratified,0.005,0,Q4,C41,count,0.02446087154032507,True,False,320
+stratified,0.005,0,Q4,C42,count,1.0,False,True,0
+stratified,0.005,0,Q4,C43,count,0.0485107782308833,True,False,1099
+stratified,0.005,0,Q4,C44,count,0.25380642329812786,True,False,19
+stratified,0.005,0,Q4,C45,count,1.0,False,True,0
+stratified,0.005,0,Q4,C46,count,1.0,False,True,0
+stratified,0.005,0,Q4,C47,count,0.013685342065495362,True,False,21
+stratified,0.005,0,Q4,C48,count,0.5030263555115015,True,False,7
+stratified,0.005,0,Q4,C49,count,0.005558966090936191,True,False,1645
+stratified,0.005,0,Q4,C50,count,0.5180182532766119,True,False,1
+stratified,0.005,0,Q4,C01,avg_quantity,0.2522538748933419,True,False,8
+stratified,0.005,0,Q4,C02,avg_quantity,0.06926526891497789,True,False,172
+stratified,0.005,0,Q4,C03,avg_quantity,0.0013498298943227984,True,False,16268
+stratified,0.005,0,Q4,C04,avg_quantity,0.03961601161367309,True,False,864
+stratified,0.005,0,Q4,C05,avg_quantity,7.079067450831634e-05,True,False,4884
+stratified,0.005,0,Q4,C06,avg_quantity,0.0290342502105199,True,False,1751
+stratified,0.005,0,Q4,C07,avg_quantity,0.3163875320077208,True,False,9
+stratified,0.005,0,Q4,C08,avg_quantity,0.014411166241368718,True,False,1112
+stratified,0.005,0,Q4,C09,avg_quantity,0.03739890372559904,True,False,37
+stratified,0.005,0,Q4,C10,avg_quantity,0.20839757735100384,True,False,42
+stratified,0.005,0,Q4,C11,avg_quantity,0.006855349366187339,True,False,192
+stratified,0.005,0,Q4,C12,avg_quantity,1.0,False,True,0
+stratified,0.005,0,Q4,C13,avg_quantity,0.015219589720747741,True,False,2811
+stratified,0.005,0,Q4,C14,avg_quantity,0.04360043176308448,True,False,5
+stratified,0.005,0,Q4,C15,avg_quantity,0.016593180903021344,True,False,1719
+stratified,0.005,0,Q4,C16,avg_quantity,0.04004849646769147,True,False,138
+stratified,0.005,0,Q4,C17,avg_quantity,0.028377081233341716,False,False,3279
+stratified,0.005,0,Q4,C18,avg_quantity,0.11716826516357388,True,False,4
+stratified,0.005,0,Q4,C19,avg_quantity,0.10542430518264358,True,False,21
+stratified,0.005,0,Q4,C20,avg_quantity,0.026264925234407863,True,False,219
+stratified,0.005,0,Q4,C22,avg_quantity,0.009684553313180017,True,False,791
+stratified,0.005,0,Q4,C23,avg_quantity,0.028718993086427027,True,False,2325
+stratified,0.005,0,Q4,C24,avg_quantity,0.0007059499376104531,True,False,1257
+stratified,0.005,0,Q4,C25,avg_quantity,0.0897946696901414,False,False,557
+stratified,0.005,0,Q4,C26,avg_quantity,0.14297029211426723,True,False,17
+stratified,0.005,0,Q4,C27,avg_quantity,0.014376652442770416,True,False,1421
+stratified,0.005,0,Q4,C28,avg_quantity,0.024957686033484385,True,False,1049
+stratified,0.005,0,Q4,C29,avg_quantity,0.017359829556012722,True,False,159
+stratified,0.005,0,Q4,C30,avg_quantity,0.0020401958449035966,True,False,46
+stratified,0.005,0,Q4,C31,avg_quantity,0.3144782476577051,False,False,8
+stratified,0.005,0,Q4,C32,avg_quantity,1.0,False,True,0
+stratified,0.005,0,Q4,C33,avg_quantity,0.03304053196155468,True,False,1058
+stratified,0.005,0,Q4,C35,avg_quantity,0.6659852409150935,True,False,3
+stratified,0.005,0,Q4,C36,avg_quantity,0.08136184013700151,True,False,69
+stratified,0.005,0,Q4,C37,avg_quantity,0.04076741723638279,True,False,450
+stratified,0.005,0,Q4,C38,avg_quantity,0.01565703269932486,True,False,1670
+stratified,0.005,0,Q4,C39,avg_quantity,0.047193758446237626,True,False,578
+stratified,0.005,0,Q4,C40,avg_quantity,0.24985679573881434,True,False,7
+stratified,0.005,0,Q4,C41,avg_quantity,0.020349623293303483,True,False,320
+stratified,0.005,0,Q4,C42,avg_quantity,1.0,False,True,0
+stratified,0.005,0,Q4,C43,avg_quantity,0.04344583667249069,False,False,1099
+stratified,0.005,0,Q4,C44,avg_quantity,0.03590608738234555,True,False,19
+stratified,0.005,0,Q4,C45,avg_quantity,1.0,False,True,0
+stratified,0.005,0,Q4,C46,avg_quantity,1.0,False,True,0
+stratified,0.005,0,Q4,C47,avg_quantity,0.029583534558687428,True,False,21
+stratified,0.005,0,Q4,C48,avg_quantity,0.23368909035037072,True,False,7
+stratified,0.005,0,Q4,C49,avg_quantity,0.02019598381442332,True,False,1645
+stratified,0.005,0,Q4,C50,avg_quantity,0.660377358490566,False,False,1
+stratified,0.005,0,Q5,__all__,sum_revenue,0.066902314494426,True,False,708
+stratified,0.01,0,Q1,Africa,avg_price,0.0016209677316206775,True,False,35064
+stratified,0.01,0,Q1,East Asia,avg_price,0.00026642553767568006,True,False,150145
+stratified,0.01,0,Q1,Europe,avg_price,0.0016702329776055313,True,False,250075
+stratified,0.01,0,Q1,Latin America,avg_price,0.005921679568580162,True,False,80173
+stratified,0.01,0,Q1,Middle East,avg_price,0.008555340304709353,False,False,59888
+stratified,0.01,0,Q1,North America,avg_price,0.0020156552677607895,True,False,299115
+stratified,0.01,0,Q1,Oceania,avg_price,0.0064585084212953545,True,False,5029
+stratified,0.01,0,Q1,South Asia,avg_price,0.0017769443575549183,True,False,119537
+stratified,0.01,0,Q2,Africa,sum_revenue,0.0055423919925349455,True,False,10433
+stratified,0.01,0,Q2,East Asia,sum_revenue,0.01096941380440878,True,False,45069
+stratified,0.01,0,Q2,Europe,sum_revenue,0.004888095273555254,True,False,74904
+stratified,0.01,0,Q2,Latin America,sum_revenue,0.013878523530260475,True,False,24144
+stratified,0.01,0,Q2,Middle East,sum_revenue,0.011838644790949971,True,False,17872
+stratified,0.01,0,Q2,North America,sum_revenue,0.006820231113177354,True,False,90085
+stratified,0.01,0,Q2,Oceania,sum_revenue,0.0020415303563112415,True,False,1551
+stratified,0.01,0,Q2,South Asia,sum_revenue,0.007630901408314409,True,False,35799
+stratified,0.01,0,Q2,Africa,count,0.008557117240707592,True,False,10433
+stratified,0.01,0,Q2,East Asia,count,0.0009249949497889842,True,False,45069
+stratified,0.01,0,Q2,Europe,count,0.0012906444822791937,True,False,74904
+stratified,0.01,0,Q2,Latin America,count,0.004199305246155293,True,False,24144
+stratified,0.01,0,Q2,Middle East,count,0.004318689136122026,True,False,17872
+stratified,0.01,0,Q2,North America,count,0.003994643799730017,True,False,90085
+stratified,0.01,0,Q2,Oceania,count,0.026511173832894468,True,False,1551
+stratified,0.01,0,Q2,South Asia,count,0.0018891392044064525,True,False,35799
+stratified,0.01,0,Q3,Africa,avg_revenue,0.0005007327110707543,True,False,2801
+stratified,0.01,0,Q3,East Asia,avg_revenue,0.011255885090929802,True,False,11804
+stratified,0.01,0,Q3,Europe,avg_revenue,0.004590710988701419,True,False,19576
+stratified,0.01,0,Q3,Latin America,avg_revenue,0.01527060789098684,True,False,6332
+stratified,0.01,0,Q3,Middle East,avg_revenue,0.019074092361870337,True,False,4570
+stratified,0.01,0,Q3,North America,avg_revenue,0.011984044558765842,True,False,23510
+stratified,0.01,0,Q3,Oceania,avg_revenue,0.0697395330681193,True,False,382
+stratified,0.01,0,Q3,South Asia,avg_revenue,0.007206801330223588,True,False,9195
+stratified,0.01,0,Q4,C01,count,0.0849393943928418,True,False,22
+stratified,0.01,0,Q4,C02,count,0.0012716464232050396,True,False,338
+stratified,0.01,0,Q4,C03,count,0.006955834571755348,True,False,32776
+stratified,0.01,0,Q4,C04,count,0.0019764403217746845,True,False,1653
+stratified,0.01,0,Q4,C05,count,0.0007975163643474237,True,False,9781
+stratified,0.01,0,Q4,C06,count,0.02010581853976706,True,False,3583
+stratified,0.01,0,Q4,C07,count,0.03878820673123044,True,False,22
+stratified,0.01,0,Q4,C08,count,0.037961974434017345,True,False,2227
+stratified,0.01,0,Q4,C09,count,0.07179356229593359,True,False,76
+stratified,0.01,0,Q4,C10,count,0.024723865754651898,True,False,74
+stratified,0.01,0,Q4,C11,count,0.030961639003346326,True,False,363
+stratified,0.01,0,Q4,C12,count,1.0,False,True,0
+stratified,0.01,0,Q4,C13,count,0.006079224497033871,True,False,5576
+stratified,0.01,0,Q4,C14,count,0.023985822857833603,True,False,8
+stratified,0.01,0,Q4,C15,count,0.012205042860684336,True,False,3389
+stratified,0.01,0,Q4,C16,count,0.05277842456416755,True,False,277
+stratified,0.01,0,Q4,C17,count,0.005787329677347206,True,False,6569
+stratified,0.01,0,Q4,C18,count,0.0922597239875629,True,False,7
+stratified,0.01,0,Q4,C19,count,0.010116613942510495,True,False,37
+stratified,0.01,0,Q4,C20,count,0.003868855572068026,True,False,456
+stratified,0.01,0,Q4,C22,count,0.023779239334377977,True,False,1535
+stratified,0.01,0,Q4,C23,count,0.0059995885112200855,True,False,4699
+stratified,0.01,0,Q4,C24,count,0.01522589039723687,True,False,2532
+stratified,0.01,0,Q4,C25,count,0.0011029729426743488,True,False,1153
+stratified,0.01,0,Q4,C26,count,0.025279362006759218,True,False,56
+stratified,0.01,0,Q4,C27,count,0.007014291214731251,True,False,2856
+stratified,0.01,0,Q4,C28,count,0.014899068734962795,True,False,2009
+stratified,0.01,0,Q4,C29,count,0.11460855662938164,False,False,320
+stratified,0.01,0,Q4,C30,count,0.05995703692199014,True,False,93
+stratified,0.01,0,Q4,C31,count,0.04686993789614256,True,False,18
+stratified,0.01,0,Q4,C32,count,1.0,False,True,0
+stratified,0.01,0,Q4,C33,count,0.009413757447924682,True,False,2108
+stratified,0.01,0,Q4,C35,count,0.23997342362006463,True,False,11
+stratified,0.01,0,Q4,C36,count,0.0076866674449193465,True,False,133
+stratified,0.01,0,Q4,C37,count,0.009905348464853215,True,False,938
+stratified,0.01,0,Q4,C38,count,0.007124047111073056,True,False,3301
+stratified,0.01,0,Q4,C39,count,0.013003134971260122,True,False,1165
+stratified,0.01,0,Q4,C40,count,0.36810600208609584,True,False,11
+stratified,0.01,0,Q4,C41,count,0.002358490907308224,True,False,626
+stratified,0.01,0,Q4,C42,count,1.0,False,True,0
+stratified,0.01,0,Q4,C43,count,0.041782868917301846,True,False,2183
+stratified,0.01,0,Q4,C44,count,0.12227295650750222,True,False,34
+stratified,0.01,0,Q4,C45,count,0.144188158315515,True,False,2
+stratified,0.01,0,Q4,C46,count,0.23970605016213772,True,False,2
+stratified,0.01,0,Q4,C47,count,0.08621976791112235,True,False,45
+stratified,0.01,0,Q4,C48,count,0.03324191178073288,True,False,9
+stratified,0.01,0,Q4,C49,count,0.023901713570774096,True,False,3191
+stratified,0.01,0,Q4,C50,count,0.24029305643567717,True,False,1
+stratified,0.01,0,Q4,C01,avg_quantity,0.20492380606647953,False,False,22
+stratified,0.01,0,Q4,C02,avg_quantity,0.054971398171562984,True,False,338
+stratified,0.01,0,Q4,C03,avg_quantity,0.003205157261961616,True,False,32776
+stratified,0.01,0,Q4,C04,avg_quantity,0.022657914235399444,True,False,1653
+stratified,0.01,0,Q4,C05,avg_quantity,0.0028949636623846232,True,False,9781
+stratified,0.01,0,Q4,C06,avg_quantity,0.004431287803960835,True,False,3583
+stratified,0.01,0,Q4,C07,avg_quantity,0.07705944165013737,True,False,22
+stratified,0.01,0,Q4,C08,avg_quantity,0.00479395793218629,True,False,2227
+stratified,0.01,0,Q4,C09,avg_quantity,0.06279656419933143,True,False,76
+stratified,0.01,0,Q4,C10,avg_quantity,0.07426087864329706,True,False,74
+stratified,0.01,0,Q4,C11,avg_quantity,0.00214468806182957,True,False,363
+stratified,0.01,0,Q4,C12,avg_quantity,1.0,False,True,0
+stratified,0.01,0,Q4,C13,avg_quantity,0.004214208977649657,True,False,5576
+stratified,0.01,0,Q4,C14,avg_quantity,0.0322300879557411,True,False,8
+stratified,0.01,0,Q4,C15,avg_quantity,0.01086137376132282,True,False,3389
+stratified,0.01,0,Q4,C16,avg_quantity,0.028202475853339133,True,False,277
+stratified,0.01,0,Q4,C17,avg_quantity,0.00846441723205507,True,False,6569
+stratified,0.01,0,Q4,C18,avg_quantity,0.021722234750033334,True,False,7
+stratified,0.01,0,Q4,C19,avg_quantity,0.06918164763330281,True,False,37
+stratified,0.01,0,Q4,C20,avg_quantity,0.016456351717226904,True,False,456
+stratified,0.01,0,Q4,C22,avg_quantity,0.012687691712065578,True,False,1535
+stratified,0.01,0,Q4,C23,avg_quantity,0.017895883506580466,True,False,4699
+stratified,0.01,0,Q4,C24,avg_quantity,0.014772028112702777,True,False,2532
+stratified,0.01,0,Q4,C25,avg_quantity,0.050593084389223136,False,False,1153
+stratified,0.01,0,Q4,C26,avg_quantity,0.061771048001316185,True,False,56
+stratified,0.01,0,Q4,C27,avg_quantity,0.012102626333514251,True,False,2856
+stratified,0.01,0,Q4,C28,avg_quantity,0.020438621171630218,True,False,2009
+stratified,0.01,0,Q4,C29,avg_quantity,0.011386005947434295,True,False,320
+stratified,0.01,0,Q4,C30,avg_quantity,0.09912450953448122,True,False,93
+stratified,0.01,0,Q4,C31,avg_quantity,0.243512201291636,True,False,18
+stratified,0.01,0,Q4,C32,avg_quantity,1.0,False,True,0
+stratified,0.01,0,Q4,C33,avg_quantity,0.010010900392950118,True,False,2108
+stratified,0.01,0,Q4,C35,avg_quantity,0.03269779088414937,True,False,11
+stratified,0.01,0,Q4,C36,avg_quantity,0.08393394982037687,True,False,133
+stratified,0.01,0,Q4,C37,avg_quantity,0.018830752613727776,True,False,938
+stratified,0.01,0,Q4,C38,avg_quantity,0.008249186564631287,True,False,3301
+stratified,0.01,0,Q4,C39,avg_quantity,0.02451568536504648,True,False,1165
+stratified,0.01,0,Q4,C40,avg_quantity,0.17228097091688335,True,False,11
+stratified,0.01,0,Q4,C41,avg_quantity,0.00365931992238665,True,False,626
+stratified,0.01,0,Q4,C42,avg_quantity,1.0,False,True,0
+stratified,0.01,0,Q4,C43,avg_quantity,0.00399291618320105,True,False,2183
+stratified,0.01,0,Q4,C44,avg_quantity,0.06582548107416682,True,False,34
+stratified,0.01,0,Q4,C45,avg_quantity,0.10240624762306261,True,False,2
+stratified,0.01,0,Q4,C46,avg_quantity,0.19328493647912906,True,False,2
+stratified,0.01,0,Q4,C47,avg_quantity,0.05394002379641548,True,False,45
+stratified,0.01,0,Q4,C48,avg_quantity,0.11090370031930291,True,False,9
+stratified,0.01,0,Q4,C49,avg_quantity,0.003684620757125336,True,False,3191
+stratified,0.01,0,Q4,C50,avg_quantity,0.660377358490566,False,False,1
+stratified,0.01,0,Q5,__all__,sum_revenue,0.04900069183278758,True,False,1456
+stratified,0.05,0,Q1,Africa,avg_price,0.0009857493627833547,True,False,174615
+stratified,0.05,0,Q1,East Asia,avg_price,0.00010194310047631025,True,False,749366
+stratified,0.05,0,Q1,Europe,avg_price,0.0001742014378396025,True,False,1250355
+stratified,0.05,0,Q1,Latin America,avg_price,0.002067468684060237,True,False,399721
+stratified,0.05,0,Q1,Middle East,avg_price,0.00195301991382708,True,False,300332
+stratified,0.05,0,Q1,North America,avg_price,0.0006737182247356412,True,False,1499849
+stratified,0.05,0,Q1,Oceania,avg_price,0.0061447869977118,True,False,25070
+stratified,0.05,0,Q1,South Asia,avg_price,0.000711058212806947,True,False,599645
+stratified,0.05,0,Q2,Africa,sum_revenue,0.00444742799515886,True,False,52208
+stratified,0.05,0,Q2,East Asia,sum_revenue,0.00678982740189065,True,False,225422
+stratified,0.05,0,Q2,Europe,sum_revenue,0.0009625540017946162,True,False,374968
+stratified,0.05,0,Q2,Latin America,sum_revenue,0.0014045149256441826,True,False,119962
+stratified,0.05,0,Q2,Middle East,sum_revenue,0.0071262229531090645,True,False,90337
+stratified,0.05,0,Q2,North America,sum_revenue,0.00010717339420163473,True,False,450410
+stratified,0.05,0,Q2,Oceania,sum_revenue,0.020543879432818737,True,False,7681
+stratified,0.05,0,Q2,South Asia,sum_revenue,0.0002641518335755686,True,False,179760
+stratified,0.05,0,Q2,Africa,count,0.003733658964962674,True,False,52208
+stratified,0.05,0,Q2,East Asia,count,0.0030828401069930376,True,False,225422
+stratified,0.05,0,Q2,Europe,count,7.999662664134123e-05,True,False,374968
+stratified,0.05,0,Q2,Latin America,count,0.0007499138499728629,True,False,119962
+stratified,0.05,0,Q2,Middle East,count,0.0035778448606593794,True,False,90337
+stratified,0.05,0,Q2,North America,count,0.0011003007530720902,True,False,450410
+stratified,0.05,0,Q2,Oceania,count,0.019757598608163344,False,False,7681
+stratified,0.05,0,Q2,South Asia,count,0.0008997196329208197,True,False,179760
+stratified,0.05,0,Q3,Africa,avg_revenue,0.0025368081824256464,True,False,13655
+stratified,0.05,0,Q3,East Asia,avg_revenue,0.0016905871152959073,True,False,58875
+stratified,0.05,0,Q3,Europe,avg_revenue,0.0015380895163715307,True,False,97645
+stratified,0.05,0,Q3,Latin America,avg_revenue,0.0042682821673402345,True,False,31397
+stratified,0.05,0,Q3,Middle East,avg_revenue,0.004431087976371038,True,False,23434
+stratified,0.05,0,Q3,North America,avg_revenue,0.00194872665389538,True,False,116960
+stratified,0.05,0,Q3,Oceania,avg_revenue,0.02901146340856628,True,False,1963
+stratified,0.05,0,Q3,South Asia,avg_revenue,0.0010839222326100057,True,False,46890
+stratified,0.05,0,Q4,C01,count,0.002975628268318857,True,False,120
+stratified,0.05,0,Q4,C02,count,0.02644280256714739,True,False,1739
+stratified,0.05,0,Q4,C03,count,0.0035750159036544325,True,False,163478
+stratified,0.05,0,Q4,C04,count,0.013889890901989258,True,False,8144
+stratified,0.05,0,Q4,C05,count,0.006048693807993834,True,False,48695
+stratified,0.05,0,Q4,C06,count,0.0004728530673553309,True,False,17589
+stratified,0.05,0,Q4,C07,count,0.103212396057953,True,False,117
+stratified,0.05,0,Q4,C08,count,0.0033304751209200147,True,False,11549
+stratified,0.05,0,Q4,C09,count,0.009967240694103591,True,False,414
+stratified,0.05,0,Q4,C10,count,0.01503137600329939,True,False,367
+stratified,0.05,0,Q4,C11,count,0.0037754168181386378,True,False,1868
+stratified,0.05,0,Q4,C12,count,1.0,False,True,0
+stratified,0.05,0,Q4,C13,count,0.0008806748219779168,True,False,28102
+stratified,0.05,0,Q4,C14,count,0.1951434307162175,True,False,33
+stratified,0.05,0,Q4,C15,count,0.010644471364554604,True,False,16989
+stratified,0.05,0,Q4,C16,count,0.005942823130454536,True,False,1473
+stratified,0.05,0,Q4,C17,count,0.004475120930390348,True,False,32831
+stratified,0.05,0,Q4,C18,count,0.15882180919226396,True,False,27
+stratified,0.05,0,Q4,C19,count,0.0059135748420473195,True,False,186
+stratified,0.05,0,Q4,C20,count,0.03415491376952381,True,False,2213
+stratified,0.05,0,Q4,C22,count,0.0013570689064779453,True,False,7880
+stratified,0.05,0,Q4,C23,count,0.004087146164815053,True,False,23560
+stratified,0.05,0,Q4,C24,count,0.005306481902421041,True,False,12800
+stratified,0.05,0,Q4,C25,count,0.016577723525050964,True,False,5873
+stratified,0.05,0,Q4,C26,count,0.037901301883849416,True,False,263
+stratified,0.05,0,Q4,C27,count,0.008286717158284907,True,False,14513
+stratified,0.05,0,Q4,C28,count,0.0071064057615847845,True,False,9978
+stratified,0.05,0,Q4,C29,count,0.017160828244072113,True,False,1778
+stratified,0.05,0,Q4,C30,count,0.1243535028853322,False,False,494
+stratified,0.05,0,Q4,C31,count,0.2916101653600748,False,False,61
+stratified,0.05,0,Q4,C32,count,1.0,False,True,0
+stratified,0.05,0,Q4,C33,count,0.008321142885704473,True,False,10561
+stratified,0.05,0,Q4,C35,count,0.1593339351823005,True,False,84
+stratified,0.05,0,Q4,C36,count,0.04960858184701217,True,False,628
+stratified,0.05,0,Q4,C37,count,0.0017299155444399938,True,False,4733
+stratified,0.05,0,Q4,C38,count,0.003950666593535131,True,False,16572
+stratified,0.05,0,Q4,C39,count,0.0029616829129931062,True,False,5890
+stratified,0.05,0,Q4,C40,count,0.20870067675015153,False,False,69
+stratified,0.05,0,Q4,C41,count,0.021437890377214875,True,False,3193
+stratified,0.05,0,Q4,C42,count,1.0,False,True,0
+stratified,0.05,0,Q4,C43,count,0.008242282750602431,True,False,10573
+stratified,0.05,0,Q4,C44,count,0.003994902444149214,True,False,151
+stratified,0.05,0,Q4,C45,count,0.1963100388791246,True,False,14
+stratified,0.05,0,Q4,C46,count,0.0875687978049683,True,False,12
+stratified,0.05,0,Q4,C47,count,0.10434850155099784,True,False,229
+stratified,0.05,0,Q4,C48,count,0.012909002711132515,True,False,46
+stratified,0.05,0,Q4,C49,count,0.0014184111025837673,True,False,16382
+stratified,0.05,0,Q4,C50,count,0.06051253279429772,True,False,7
+stratified,0.05,0,Q4,C01,avg_quantity,0.029471134396463858,True,False,120
+stratified,0.05,0,Q4,C02,avg_quantity,0.005799258630328,True,False,1739
+stratified,0.05,0,Q4,C03,avg_quantity,0.0005103312335721143,True,False,163478
+stratified,0.05,0,Q4,C04,avg_quantity,0.002114634143472969,True,False,8144
+stratified,0.05,0,Q4,C05,avg_quantity,0.0066125059870314334,False,False,48695
+stratified,0.05,0,Q4,C06,avg_quantity,0.003918109915532916,True,False,17589
+stratified,0.05,0,Q4,C07,avg_quantity,0.012965089038421399,True,False,117
+stratified,0.05,0,Q4,C08,avg_quantity,0.006081595220309972,True,False,11549
+stratified,0.05,0,Q4,C09,avg_quantity,0.013840770024413713,True,False,414
+stratified,0.05,0,Q4,C10,avg_quantity,0.01228404830401297,True,False,367
+stratified,0.05,0,Q4,C11,avg_quantity,0.010863278776102065,True,False,1868
+stratified,0.05,0,Q4,C12,avg_quantity,1.0,False,True,0
+stratified,0.05,0,Q4,C13,avg_quantity,4.278253100965138e-05,True,False,28102
+stratified,0.05,0,Q4,C14,avg_quantity,0.0013095276180796274,True,False,33
+stratified,0.05,0,Q4,C15,avg_quantity,0.004951640269287149,True,False,16989
+stratified,0.05,0,Q4,C16,avg_quantity,0.007876677819064233,True,False,1473
+stratified,0.05,0,Q4,C17,avg_quantity,0.006478400008015069,True,False,32831
+stratified,0.05,0,Q4,C18,avg_quantity,0.32379023706677956,True,False,27
+stratified,0.05,0,Q4,C19,avg_quantity,0.03799078208201366,True,False,186
+stratified,0.05,0,Q4,C20,avg_quantity,0.002938230535666344,True,False,2213
+stratified,0.05,0,Q4,C22,avg_quantity,0.007803046709410068,True,False,7880
+stratified,0.05,0,Q4,C23,avg_quantity,0.0029138767074924406,True,False,23560
+stratified,0.05,0,Q4,C24,avg_quantity,0.0010352413496337869,True,False,12800
+stratified,0.05,0,Q4,C25,avg_quantity,0.036214073385083506,False,False,5873
+stratified,0.05,0,Q4,C26,avg_quantity,0.014371108905019433,True,False,263
+stratified,0.05,0,Q4,C27,avg_quantity,0.0018337849982258563,True,False,14513
+stratified,0.05,0,Q4,C28,avg_quantity,0.013712102769930226,True,False,9978
+stratified,0.05,0,Q4,C29,avg_quantity,0.015211768857054964,True,False,1778
+stratified,0.05,0,Q4,C30,avg_quantity,0.02030834802330185,True,False,494
+stratified,0.05,0,Q4,C31,avg_quantity,0.003658528106160874,True,False,61
+stratified,0.05,0,Q4,C32,avg_quantity,1.0,False,True,0
+stratified,0.05,0,Q4,C33,avg_quantity,0.0013943671194413085,True,False,10561
+stratified,0.05,0,Q4,C35,avg_quantity,0.044324100187353735,True,False,84
+stratified,0.05,0,Q4,C36,avg_quantity,0.05937978237920346,False,False,628
+stratified,0.05,0,Q4,C37,avg_quantity,0.0035558886562685236,True,False,4733
+stratified,0.05,0,Q4,C38,avg_quantity,0.012277747486623266,False,False,16572
+stratified,0.05,0,Q4,C39,avg_quantity,0.0021983348019903497,True,False,5890
+stratified,0.05,0,Q4,C40,avg_quantity,0.007547727359989715,True,False,69
+stratified,0.05,0,Q4,C41,avg_quantity,0.004458269491328193,True,False,3193
+stratified,0.05,0,Q4,C42,avg_quantity,1.0,False,True,0
+stratified,0.05,0,Q4,C43,avg_quantity,0.0011292633027990286,True,False,10573
+stratified,0.05,0,Q4,C44,avg_quantity,0.0636910931120852,True,False,151
+stratified,0.05,0,Q4,C45,avg_quantity,0.037515792707027734,True,False,14
+stratified,0.05,0,Q4,C46,avg_quantity,0.07386411008042319,True,False,12
+stratified,0.05,0,Q4,C47,avg_quantity,0.060129348559478026,True,False,229
+stratified,0.05,0,Q4,C48,avg_quantity,0.13649971920726187,True,False,46
+stratified,0.05,0,Q4,C49,avg_quantity,0.0036313165570290443,True,False,16382
+stratified,0.05,0,Q4,C50,avg_quantity,0.30458480257060244,True,False,7
+stratified,0.05,0,Q5,__all__,sum_revenue,0.02941621871061458,True,False,7394
